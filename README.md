@@ -32,4 +32,4 @@ git clone https://github.com/Sky0023/AR-with-virtual-button/.git
 ```
 
 ## Video Demonstration
-<a href="https://www.youtube.com/watch?v=xTfBrxNpiFU" target="_blank"><img src="image target/Charlie.jpg" alt ="Video Thumbnail" border="10"/></a>
+<a href="https://www.youtube.com/watch?v=xTfBrxNpiFU" target="_blank"><img src="https://i.imgur.com/N5kR9uj.jpg" alt ="Video Thumbnail" border="10"/></a>
