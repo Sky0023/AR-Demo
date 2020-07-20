@@ -18,6 +18,7 @@ Make sure you have the below requirements before starting:
 
 - [Unity Engine](https://unity3d.com/get-unity/download?_ga=2.160408569.574823627.1566139084-134879676.1565187215)
 - Basic Knowledge about Unity and C#
+- Set up [Android development tools & credentials](https://docs.unity3d.com/Manual/android-sdksetup.html)
 - Vuforia Developer Account on [Vuforia Engine Developer Portal](https://developer.vuforia.com/).
 - [Image target](https://github.com/Sky0023/AR-with-virtual-button/blob/master/image%20target/Charlie.jpg)
 
